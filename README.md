@@ -2,7 +2,7 @@
 
 ![](/public/ConnectFour.png)
 
-This project was for the Full Stack Developer bootcamp I did.
+This project was a capstone for the Web Development Essentials track of the Full Stack Developer bootcamp I did.
 
 ## The assignment
 
